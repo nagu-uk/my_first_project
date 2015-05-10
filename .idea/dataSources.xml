@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="600682189">
+    <data-source source="LOCAL" name="Rails firstproject: development" uuid="5c657e50-cb10-4d0d-897a-7e649ed1765e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/my_first_project</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfcddfcfdfc4dfcedfd8dfcb</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails firstproject: test" uuid="b59ad714-b275-4490-ae07-6f036b4335a3">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails firstproject: production" uuid="de4adc18-2be2-4375-8d5e-b97ae6dfc3c7">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/db/production.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
